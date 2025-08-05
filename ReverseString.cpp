@@ -20,6 +20,6 @@ for(int i = n;i>=0;i--){
 
 // OUTPUT
 // Enter the string to reverse
-// Aditya
+// Ayush 
 // Reversed String
-// aytidA
+// hsuyA
